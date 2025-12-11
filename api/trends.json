@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-10T17:34:03.989355+08:00",
+  "generated_at": "2025-12-11T17:34:52.662335+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
@@ -8,63 +8,85 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "特朗普俄乌“和平计划”失败？泽连斯基强硬表态：不会放弃任何领土",
-          "url": "https://www.cls.cn/detail/2225037",
-          "source": "财联社热门",
+          "title": "特朗普：被扣押油轮上的石油归美国了",
+          "url": "https://www.toutiao.com/trending/7581744403334086710/",
+          "source": "今日头条",
           "ranks": [
-            3
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时33分 ~ 17时34分]"
+          "appearance_count": 1,
+          "time_info": "17时34分"
         },
         {
-          "title": "特朗普：降息是新美联储主席的试金石，可能通过调整关税降低部分商品价格",
-          "url": "https://wallstreetcn.com/articles/3761018",
-          "source": "华尔街见闻",
+          "title": "指望特朗普出面给日本帮腔，中国就会让步？日学者：大错特错",
+          "url": "https://news.ifeng.com/c/8ozzAO4JqEe",
+          "source": "凤凰网",
           "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时33分 ~ 17时34分]"
+          "appearance_count": 1,
+          "time_info": "17时34分"
         },
         {
-          "title": "失去耐心？特朗普要泽连斯基签下“节前之盟”",
-          "url": "https://news.ifeng.com/c/8oyJa7lvayk",
+          "title": "泰国总理回应特朗普：一通电话无法解决泰柬冲突",
+          "url": "https://news.ifeng.com/c/8ozyUBmNa9F",
           "source": "凤凰网",
           "ranks": [
-            6
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时33分 ~ 17时34分]"
+          "appearance_count": 1,
+          "time_info": "17时34分"
         },
         {
-          "title": "特朗普要搞“美联储主席最终面试”，哈塞特尚未“板上钉钉”，贝森特仍有望后续接任？",
-          "url": "https://wallstreetcn.com/articles/3761053",
-          "source": "华尔街见闻",
+          "title": "特朗普金卡签证开始接受申请",
+          "url": "https://www.douyin.com/hot/2332949",
+          "source": "抖音",
           "ranks": [
-            10
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时33分 ~ 17时34分]"
+          "appearance_count": 1,
+          "time_info": "17时34分"
         }
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 1,
+      "keyword_group": "美股",
+      "match_count": 3,
       "titles": [
         {
-          "title": "澳新银行：金价小幅回落，市场对美联储后续宽松步伐趋于谨慎",
-          "url": "https://flash.jin10.com/detail/20251210164920560800",
+          "title": "美联储降息，鲍威尔言论比预期温和，美股三大指数收涨，白银再创新高，原油V形反转",
+          "url": "https://wallstreetcn.com/articles/3761091",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时34分"
+        },
+        {
+          "title": "甲骨文美股盘前跌超12%，公司业绩不及预期，资本开支比预期多约150亿美元。受此影响，美股明星科技股普跌，英伟达跌超1%，美光科技跌超2%，微软跌1%，AMD下跌1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3019120",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时34分"
+        },
+        {
+          "title": "甲骨文(ORCL.N)带动美股AI股盘前走低，英伟达(NVDA.O)跌1.9%，美光科技(MU.O)跌2.1%，微软(MSFT.O)跌1.1%。",
+          "url": "https://flash.jin10.com/detail/20251211170906953800",
           "source": "金十数据",
           "ranks": [
-            16
+            10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时34分"
         }
@@ -75,15 +97,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "美利率决议前摩根大通拖累美股，盘中美债转跌、加密货币拉升，白银首次突破60美元",
-          "url": "https://wallstreetcn.com/articles/3760999",
-          "source": "华尔街见闻",
+          "title": "法巴银行：在美联储降息后平仓10年期美债空头",
+          "url": "https://flash.jin10.com/detail/20251211170943666800",
+          "source": "金十数据",
           "ranks": [
-            1
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时33分 ~ 17时34分]"
+          "appearance_count": 1,
+          "time_info": "17时34分"
         }
       ]
     }
