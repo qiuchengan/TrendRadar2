@@ -1,227 +1,189 @@
 {
-  "generated_at": "2026-01-25T17:31:41.851700+08:00",
+  "generated_at": "2026-01-26T17:43:37.114848+08:00",
   "total_titles_processed": 301,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 15,
+      "keyword_group": "美股",
+      "match_count": 4,
       "titles": [
         {
-          "title": "历史学大佬：特朗普“明抢格陵兰”，是为了“暗度伊朗和乌克兰”",
-          "url": "https://wallstreetcn.com/articles/3764090",
+          "title": "美日干预叠加政府关门预期，黄金站上5100、白银突破110，日元强势反弹，美股汇齐跌",
+          "url": "https://wallstreetcn.com/articles/3764111",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时31分"
+          "time_info": "17时43分"
         },
         {
-          "title": "特朗普威胁对加拿大征收100%关税，加总理回应",
-          "url": "https://news.ifeng.com/c/8qBty1JuFMx",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时31分"
-        },
-        {
-          "title": "特朗普嫌盟友在阿富汗没出力，英、澳等国“接受不了”",
-          "url": "https://news.ifeng.com/c/8qCeJxu5emm",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时31分"
-        },
-        {
-          "title": "特朗普施压后，英国突然叫停",
-          "url": "https://news.ifeng.com/c/8qBdM8lHY0b",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时31分"
-        },
-        {
-          "title": "相关谈判“进展顺利”，特朗普称美国将取得格陵兰岛美军基地所在区域“主权”",
-          "url": "https://wallstreetcn.com/articles/3764087",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时31分"
-        },
-        {
-          "title": "特朗普威胁“100%关税”，加拿大总理卡尼号召民众“购买国货”",
-          "url": "https://wallstreetcn.com/articles/3764088",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时31分"
-        },
-        {
-          "title": "特朗普承认美军在委使用秘密武器，目击者：被袭者头痛吐血",
-          "url": "https://news.ifeng.com/c/8qCTUGtfKG0",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时31分"
-        },
-        {
-          "title": "特朗普称赞前ICE局长 称其揭露明尼苏达州事件“动机”",
-          "url": "https://flash.jin10.com/detail/20260125150515491800",
+          "title": "贝克休斯美股盘前涨超3%，此前公司报告第四季度调整后利润高于预期。",
+          "url": "https://flash.jin10.com/detail/20260126172109775800",
           "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时31分"
-        },
-        {
-          "title": "特朗普承认使用“秘密”武器",
-          "url": "https://www.cls.cn/detail/2268653",
-          "source": "财联社热门",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时31分"
+          "time_info": "17时43分"
         },
         {
-          "title": "美国州检察官起诉特朗普政府，指控其阻碍枪击案调查",
-          "url": "https://wallstreetcn.com/livenews/3043350",
+          "title": "USA Rare Earth美股盘前涨超58%，报道称特朗普政府计划向美国稀土公司（USA Rare Earth）注资16亿美元，以加强关键矿产资源的供应保障。美国政府将获得美国稀土公司10%的股份。",
+          "url": "https://wallstreetcn.com/livenews/3043857",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时31分"
+          "time_info": "17时43分"
         },
         {
-          "title": "美国州检察官起诉特朗普政府 指控其阻碍枪击案调查",
-          "url": "https://flash.jin10.com/detail/20260125113356104800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时31分"
-        },
-        {
-          "title": "特朗普称已获取7艘扣押油轮石油",
-          "url": "https://wallstreetcn.com/livenews/3043341",
+          "title": "美股盘前，黄金股普涨，泛美白银涨近6%，科尔黛伦矿业涨超4%，哈莫尼黄金涨近3%。",
+          "url": "https://wallstreetcn.com/livenews/3043852",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时31分"
+          "time_info": "17时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "特朗普就加中贸易协定发出威胁，中方回应",
+          "url": "https://news.ifeng.com/c/8qEKozGmbDH",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时43分"
         },
         {
-          "title": "特朗普：要让世界记住我是伟大总统",
-          "url": "https://www.toutiao.com/trending/7599076884019789878/",
-          "source": "今日头条",
+          "title": "特朗普借中国发难，卡尼回怼：中加协议是纠正过去的错误",
+          "url": "https://news.ifeng.com/c/8qDwY7O9WfH",
+          "source": "凤凰网",
           "ranks": [
-            23
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时31分"
+          "time_info": "17时43分"
         },
         {
-          "title": "特朗普政府计划向美国稀土公司（USA Rare Earth）注资16亿美元，以加强关键矿产资源的供应保障。美国政府将获得美国稀土公司10%的股份。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3043338",
-          "source": "华尔街见闻-快讯",
+          "title": "白宫发布“特朗普和企鹅漫步格陵兰岛”图，遭群嘲",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32461825",
+          "source": "澎湃新闻",
           "ranks": [
-            25
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时31分"
+          "time_info": "17时43分"
         },
         {
-          "title": "特朗普外交风格与中美关系的未来",
-          "url": "https://www.toutiao.com/trending/7598942567439695923/",
-          "source": "今日头条",
+          "title": "特朗普承认使用“秘密”武器",
+          "url": "https://wallstreetcn.com/articles/3764105",
+          "source": "华尔街见闻",
           "ranks": [
-            27
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时31分"
+          "time_info": "17时43分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=12&Refer=top",
-          "source": "微博",
+          "title": "全球领先独立飞机租赁公司AerCap CEO：黄金价格反映了主要货币的贬值。目前“完全看不到”对美元计价投资兴趣减弱的任何迹象。",
+          "url": "https://flash.jin10.com/detail/20260126173425177800",
+          "source": "金十数据",
           "ranks": [
-            12
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时31分"
+          "time_info": "17时43分"
+        },
+        {
+          "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32448436",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
+          "title": "现货黄金价格首次突破 5000 美元 / 盎司，创历史新高，如何评价这轮涨势？后续走势会如何？",
+          "url": "https://www.zhihu.com/question/1999025860699710314",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时43分"
         }
       ]
     },
     {
-      "keyword_group": "黄金",
-      "match_count": 1,
+      "keyword_group": "伊朗",
+      "match_count": 2,
       "titles": [
         {
-          "title": "湖南黄金：预计2025年度净利润12.70亿元-16.08亿元，同比增长50%-90%。报告期内，业绩上涨主要是公司金、锑、钨产品销售价格同比上涨。",
-          "url": "https://wallstreetcn.com/livenews/3043358",
+          "title": "美国重兵合围伊朗！“林肯”号航母打击群抵达，大批战斗机周边集结！伊朗警告：任何攻击都将被视为全面战争",
+          "url": "https://wallstreetcn.com/articles/3764129",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
+          "title": "伊朗外交部：伊朗从未、也不会寻求核武器",
+          "url": "https://wallstreetcn.com/livenews/3043845",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时31分"
+          "time_info": "17时43分"
         }
       ]
     },
     {
-      "keyword_group": "美股",
+      "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
         {
-          "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
-          "url": "https://www.cls.cn/detail/2268496",
-          "source": "财联社热门",
+          "title": "知情人士透露 deepseek 即将发布 V4 新模型，不知道各位有什么看法？",
+          "url": "https://www.zhihu.com/question/1993355026530317494",
+          "source": "知乎",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时31分"
+          "time_info": "17时43分"
         }
       ]
     }
