@@ -1,233 +1,282 @@
 {
-  "generated_at": "2026-01-30T17:51:14.306968+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-01-31T17:37:35.330559+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
         {
-          "title": "特朗普称美联储“新掌门”周五揭晓 沃什获提名概率飙升至87%！",
-          "url": "https://www.cls.cn/detail/2275048",
-          "source": "财联社热门",
+          "title": "斯塔默回击特朗普涉中英言论",
+          "url": "https://news.ifeng.com/c/8qMRPj6uboL",
+          "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时50分 ~ 17时51分]"
+          "appearance_count": 1,
+          "time_info": "17时37分"
         },
         {
-          "title": "今晚官宣！报道称特朗普拟提名沃什执掌美联储，市场押注其胜率飙至95%",
-          "url": "https://wallstreetcn.com/articles/3764534",
+          "title": "提名沃什，特朗普：他会是最伟大的美联储主席之一！",
+          "url": "https://wallstreetcn.com/articles/3764603",
           "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时50分 ~ 17时51分]"
+          "appearance_count": 1,
+          "time_info": "17时37分"
         },
         {
-          "title": "美元大涨、黄金暴跌！特朗普挑了位最“鹰”的鲍威尔接班人？",
-          "url": "https://www.cls.cn/detail/2275439",
+          "title": "特朗普粗暴评论斯塔默访华，英高官罕见回了一巴掌",
+          "url": "https://news.ifeng.com/c/8qLcNkpSCsJ",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
+          "title": "新任美联储主席人选出炉 特朗普提名前美联储理事沃什接替鲍威尔",
+          "url": "https://www.cls.cn/detail/2276051",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
+          "title": "特朗普任命的美联储主席让市场瞬间蒸发3万亿 市场究竟在怕什么？",
+          "url": "https://wallstreetcn.com/premium/articles/3764615?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
+          "title": "深扒凯文·沃什：特朗普提名的下任美联储主席，究竟是鹰是鸽？",
+          "url": "https://www.cls.cn/detail/2276487",
           "source": "财联社热门",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时50分 ~ 17时51分]"
+          "appearance_count": 1,
+          "time_info": "17时37分"
         },
         {
-          "title": "特朗普：将开放委内瑞拉领空",
-          "url": "https://news.ifeng.com/c/8qKaGjQKJrg",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时50分 ~ 17时51分]"
-        },
-        {
-          "title": "特朗普将公布美联储下任主席提名",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%85%AC%E5%B8%83%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%8B%E4%BB%BB%E4%B8%BB%E5%B8%AD%E6%8F%90%E5%90%8D",
-          "source": "bilibili 热搜",
+          "title": "原油收复日内跌幅，特朗普：已向伊朗告知最后期限，希望达成协议，否则拭目以待",
+          "url": "https://wallstreetcn.com/articles/3764623",
+          "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时50分 ~ 17时51分]"
+          "appearance_count": 1,
+          "time_info": "17时37分"
         },
         {
-          "title": "特朗普起诉美政府部门",
-          "url": "https://www.douyin.com/hot/2383706",
-          "source": "抖音",
+          "title": "美持续施压伊朗，特朗普：没有撤回军事部署的时间表",
+          "url": "https://news.ifeng.com/c/8qM3KAFor4V",
+          "source": "凤凰网",
           "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时50分 ~ 17时51分]"
+          "appearance_count": 1,
+          "time_info": "17时37分"
         },
         {
-          "title": "特朗普威胁对加拿大飞机加征50%关税",
-          "url": "https://news.ifeng.com/c/8qKQWKa5M3r",
-          "source": "凤凰网",
+          "title": "特朗普满意“鲍威尔接班人”：无需白宫施压，沃什自会降息",
+          "url": "https://wallstreetcn.com/articles/3764621",
+          "source": "华尔街见闻",
           "ranks": [
-            11
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时50分 ~ 17时51分]"
+          "appearance_count": 1,
+          "time_info": "17时37分"
         },
         {
-          "title": "特朗普宣布国家紧急状态，威胁对向古巴提供石油的国家加征关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32496464",
+          "title": "观察丨美伊开打风险在回落？专家：特朗普虚实难辨，威胁与对话并存",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32502341",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时50分 ~ 17时51分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "市场聚焦新美联储主席，美元走强美债下跌，商品市场遭遇黑色星期五，银价跌9%、金价跌5%",
-          "url": "https://wallstreetcn.com/articles/3764541",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时50分 ~ 17时51分]"
+          "appearance_count": 1,
+          "time_info": "17时37分"
         },
         {
-          "title": "金价跌破5100美元",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C%E7%A0%B45100%E7%BE%8E%E5%85%83%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
+          "title": "共和党参议员：鲍威尔调查结束前 将反对特朗普提名沃什出任美联储主席",
+          "url": "https://www.cls.cn/detail/2276217",
+          "source": "财联社热门",
           "ranks": [
-            19
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时50分 ~ 17时51分]"
+          "appearance_count": 1,
+          "time_info": "17时37分"
         },
         {
-          "title": "黄金价格回调开始了吗",
-          "url": "https://www.toutiao.com/trending/7600951694344405055/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时50分 ~ 17时51分]"
-        },
-        {
-          "title": "金价28分钟内暴跌380美元",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B728%E5%88%86%E9%92%9F%E5%86%85%E6%9A%B4%E8%B7%8C380%E7%BE%8E%E5%85%83%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时50分 ~ 17时51分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
-          "url": "https://wallstreetcn.com/articles/3764423",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时50分 ~ 17时51分]"
-        },
-        {
-          "title": "美股盘前：闪迪涨约21%，黄金股大跌",
-          "url": "https://wallstreetcn.com/livenews/3047198",
+          "title": "斯塔默回击特朗普涉中英合作言论：忽视中国是“不明智的”",
+          "url": "https://wallstreetcn.com/livenews/3047643",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时51分"
-        },
-        {
-          "title": "美股金矿股盘前下跌，纽曼矿业(NEM.N)跌7.1%，Sibanye-Stillwater(SBSW.N)跌8%，巴里克黄金(GOLD.N)跌7.3%。",
-          "url": "https://flash.jin10.com/detail/20260130170900682800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时51分"
+          "time_info": "17时37分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 2,
+      "match_count": 6,
       "titles": [
         {
-          "title": "欧盟宣布制裁伊朗官员和实体，将伊斯兰革命卫队列为“恐怖组织”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32492325",
-          "source": "澎湃新闻",
+          "title": "伊朗陆军总司令：伊朗武装部队已做好充分的防御和军事准备",
+          "url": "https://wallstreetcn.com/livenews/3047663",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时50分 ~ 17时51分]"
+          "appearance_count": 1,
+          "time_info": "17时37分"
         },
         {
-          "title": "土耳其总统府：土耳其总统埃尔多安在通话中告知伊朗总统佩泽希齐扬，土耳其已准备好在伊美之间发挥调解作用，以缓解紧张局势。",
-          "url": "https://flash.jin10.com/detail/20260130172020707800",
+          "title": "伊朗陆军总司令：伊朗武装部队已做好充分的防御和军事准备",
+          "url": "https://flash.jin10.com/detail/20260131164253443800",
           "source": "金十数据",
           "ranks": [
-            15
+            5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时51分"
+          "time_info": "17时37分"
+        },
+        {
+          "title": "美国宣布对伊朗最新制裁措施",
+          "url": "https://news.ifeng.com/c/8qLW5o6U9BO",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
+          "title": "伊朗最高领袖顾问：已掌握敌方作战计划，将适时发动打击",
+          "url": "https://news.ifeng.com/c/8qLqvzmrdj7",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
+          "title": "美军：不会容忍伊朗在军演中的“不安全行为”",
+          "url": "https://flash.jin10.com/detail/20260131142423425800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
+          "title": "伊朗总统：敌对势力企图将伊朗社会抗议演变为内战",
+          "url": "https://flash.jin10.com/detail/20260131141345920800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         }
       ]
     },
     {
-      "keyword_group": "黄金",
-      "match_count": 1,
+      "keyword_group": "金价",
+      "match_count": 3,
       "titles": [
         {
-          "title": "黄金白银价格双双暴跌原因",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E4%BB%B7%E6%A0%BC%E5%8F%8C%E5%8F%8C%E6%9A%B4%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
+          "title": "一纸提名引爆史诗级抛售：现货白银一度跌36% 金价失守5000大关",
+          "url": "https://www.cls.cn/detail/2276350",
+          "source": "财联社热门",
           "ranks": [
-            24
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时50分 ~ 17时51分]"
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
+          "title": "机构：金价雪崩式暴跌或因“伽马挤压”而加剧",
+          "url": "https://flash.jin10.com/detail/20260131144922707800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
+          "title": "金价大幅下跌水贝市场有人果断抄底",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%A4%A7%E5%B9%85%E4%B8%8B%E8%B7%8C%E6%B0%B4%E8%B4%9D%E5%B8%82%E5%9C%BA%E6%9C%89%E4%BA%BA%E6%9E%9C%E6%96%AD%E6%8A%84%E5%BA%95%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "沃什冲击！金属遭遇“黑色星期五”，金铂钯大跳水超10%，白银一度暴跌37%，铜跌4%，美股指齐跌，原油逆市收涨",
+          "url": "https://wallstreetcn.com/articles/3764541",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
+          "title": "美股收盘：三大指数集体收低 多只金矿股跌超两位数",
+          "url": "https://www.cls.cn/detail/2276378",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         }
       ]
     }
