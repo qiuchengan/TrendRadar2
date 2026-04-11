@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-04-10T18:14:20.845655+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-04-11T17:52:54.283661+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 15,
+      "match_count": 32,
       "titles": [
         {
-          "title": "伊朗战争丨谈判前夕，伊斯兰堡已进入“红色警戒”",
+          "title": "伊朗战争丨美伊将谈判，巴基斯坦发表声明",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
           "ranks": [
@@ -16,211 +16,476 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时14分"
+          "time_info": "17时52分"
         },
         {
-          "title": "据以色列媒体称，以色列海军新任指挥官艾亚尔·哈雷尔副海军上将将于下周上任，此前因伊朗战争推迟了最初的交接日期。",
-          "url": "https://flash.jin10.com/detail/20260410181121515800",
-          "source": "金十数据",
+          "title": "美国代表团启程，万斯：相信谈判将取得积极成果！伊朗副外长：伊方十点计划将作为谈判基础",
+          "url": "https://wallstreetcn.com/articles/3769693",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时14分"
+          "time_info": "17时52分"
         },
         {
-          "title": "美媒曝光多起疑似涉伊朗战事“内幕交易”",
-          "url": "https://news.ifeng.com/c/8sD9ENlQ29B",
+          "title": "凤凰连线：伊朗提出的谈判先决条件，至少有两项没办法实现",
+          "url": "https://news.ifeng.com/c/8sEfRk1WQs3",
           "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时14分"
+          "time_info": "17时52分"
         },
         {
-          "title": "伊朗最高领袖：伊朗不寻求战争也不会放弃权利，霍尔木兹海峡的管理将进入新阶段",
-          "url": "https://wallstreetcn.com/articles/3769620",
-          "source": "华尔街见闻",
+          "title": "美据称同意解冻伊朗在海外被冻结资产",
+          "url": "https://flash.jin10.com/detail/20260411171431445800",
+          "source": "金十数据",
           "ranks": [
-            5
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时14分"
+          "time_info": "17时52分"
         },
         {
-          "title": "美伊谈判谁握有主动权？李绍先：美国要零核，伊朗要赔偿",
-          "url": "https://news.ifeng.com/c/8sDDtzEmihG",
+          "title": "伊朗为何突然转变态度？巴官员：关键推手是中国",
+          "url": "https://news.ifeng.com/c/8sEKnWwLcL4",
           "source": "凤凰网",
           "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
+          "title": "据路透社：伊朗高级消息人士表示，在达成任何持久和平协议之前，资产解冻也“直接关系到确保霍尔木兹海峡的安全通行”。",
+          "url": "https://flash.jin10.com/detail/20260411170842430800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
+          "title": "美据称同意解冻伊朗在海外被冻结资产",
+          "url": "https://wallstreetcn.com/livenews/3086192",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
+          "title": "美方相信是中国让伊朗同意停火？以偏概全！",
+          "url": "https://news.ifeng.com/c/8sEfZRzT5HM",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
+          "title": "据路透社：伊朗高级消息人士表示，伊朗认为这是一次对善意的考验，也是各方致力于达成持久和平协议的诚意体现。",
+          "url": "https://flash.jin10.com/detail/20260411170829009800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
+          "title": "巴基斯坦总理同伊朗谈判代表团的会见已结束。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3086191",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
+          "title": "据路透社：伊朗高级消息人士表示，美国已同意解除对“存于卡塔尔及其他外国银行”的伊朗冻结资产的封存。",
+          "url": "https://flash.jin10.com/detail/20260411170812104800",
+          "source": "金十数据",
+          "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时14分"
+          "time_info": "17时52分"
         },
         {
-          "title": "伊朗欲在霍尔木兹收“过路费” 能赚多少钱、能否行得通？一文读懂",
-          "url": "https://www.cls.cn/detail/2340145",
-          "source": "财联社热门",
+          "title": "很悲壮，伊朗提高了要价",
+          "url": "https://news.ifeng.com/c/8sEJ1YZWuGg",
+          "source": "凤凰网",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时14分"
+          "time_info": "17时52分"
         },
         {
-          "title": "美以袭击伊朗进入第 42 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2025706275451795397",
-          "source": "知乎",
+          "title": "巴基斯坦总理同伊朗谈判代表团的会见已结束",
+          "url": "https://flash.jin10.com/detail/20260411170645158800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时14分"
+          "time_info": "17时52分"
         },
         {
-          "title": "美媒曝光多起疑涉伊朗战事内幕交易",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%AA%92%E6%9B%9D%E5%85%89%E5%A4%9A%E8%B5%B7%E7%96%91%E6%B6%89%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%8B%E5%86%85%E5%B9%95%E4%BA%A4%E6%98%93",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时14分"
-        },
-        {
-          "title": "报道：伊朗每天允许不超过15艘船只通过霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/articles/3769603",
-          "source": "华尔街见闻",
+          "title": "伊媒披露伊朗代表团首日日程，美方接受先决条件再启动谈判",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32947223",
+          "source": "澎湃新闻",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时14分"
+          "time_info": "17时52分"
         },
         {
-          "title": "伊朗最高领袖对和谈提出三点主张，包括将对霍尔木兹海峡的管理推进到「一个新阶段」，新阶段可能指什么？",
-          "url": "https://www.zhihu.com/question/2025840148768712276",
-          "source": "知乎",
+          "title": "巴基斯坦总理会见伊朗谈判代表团。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3086183",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
+          "title": "德国地学研究中心GFZ：伊朗南部发生4.6级地震。",
+          "url": "https://flash.jin10.com/detail/20260411165221541800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
+          "title": "伊朗第一副总统：若美方代表“以色列优先” 谈判将无果而终",
+          "url": "https://wallstreetcn.com/livenews/3086182",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
+          "title": "巴基斯坦总理会见伊朗谈判代表团",
+          "url": "https://flash.jin10.com/detail/20260411164227190800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时14分"
+          "time_info": "17时52分"
         },
         {
-          "title": "伊朗红新月会：美以袭击目标涵盖伊全国近900所大中小学",
-          "url": "https://wallstreetcn.com/livenews/3085788",
+          "title": "巴总理同伊朗谈判代表团的会见已结束",
+          "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E6%80%BB%E7%90%86%E5%90%8C%E4%BC%8A%E6%9C%97%E8%B0%88%E5%88%A4%E4%BB%A3%E8%A1%A8%E5%9B%A2%E7%9A%84%E4%BC%9A%E8%A7%81%E5%B7%B2%E7%BB%93%E6%9D%9F",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
+          "title": "伊朗媒体：伊议长将会见巴总理 讨论伊美谈判形式",
+          "url": "https://wallstreetcn.com/livenews/3086179",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时14分"
+          "time_info": "17时52分"
         },
         {
-          "title": "伊朗副外长：霍尔木兹海峡保持开放",
-          "url": "https://www.toutiao.com/trending/7626336339914477097/",
-          "source": "今日头条",
+          "title": "美军空军基地遭伊朗袭击画面曝光",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E7%A9%BA%E5%86%9B%E5%9F%BA%E5%9C%B0%E9%81%AD%E4%BC%8A%E6%9C%97%E8%A2%AD%E5%87%BB%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89",
+          "source": "百度热搜",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时14分"
+          "time_info": "17时52分"
         },
         {
-          "title": "在世界上伊朗的导弹水平如何？为何伊朗导弹能突破爱国者的拦截，摧毁萨德？",
-          "url": "https://www.zhihu.com/question/2022275543672833940",
-          "source": "知乎",
+          "title": "伊朗第一副总统：若美方代表“以色列优先” 谈判将无果而终",
+          "url": "https://flash.jin10.com/detail/20260411161926054800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
+          "title": "消息人士：美同意解冻伊朗海外资产",
+          "url": "https://www.toutiao.com/trending/7627043833205018166/",
+          "source": "今日头条",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时14分"
+          "time_info": "17时52分"
         },
         {
-          "title": "伊朗最高领袖发表最新声明",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%8F%91%E8%A1%A8%E6%9C%80%E6%96%B0%E5%A3%B0%E6%98%8E%23&t=31&band_rank=16&Refer=top",
+          "title": "伊朗武装部队称随时准备开火，停火协议要失效了吗？谈判还能继续进行吗？",
+          "url": "https://www.zhihu.com/question/2026057911663686109",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
+          "title": "美以袭击伊朗进入第 43 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2026078311105783688",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
+          "title": "巴基斯坦陆军参谋长已会见伊朗代表团",
+          "url": "https://wallstreetcn.com/livenews/3086173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
+          "title": "伊朗媒体：伊议长将会见巴总理 讨论伊美谈判形式",
+          "url": "https://flash.jin10.com/detail/20260411152011922800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
+          "title": "伊朗代表团飞机上 放着这些孩子照片",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E4%BB%A3%E8%A1%A8%E5%9B%A2%E9%A3%9E%E6%9C%BA%E4%B8%8A+%E6%94%BE%E7%9D%80%E8%BF%99%E4%BA%9B%E5%AD%A9%E5%AD%90%E7%85%A7%E7%89%87",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
+          "title": "消息人士：巴基斯坦总理将会见伊朗谈判代表团",
+          "url": "https://wallstreetcn.com/livenews/3086165",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
+          "title": "美国已同意解冻伊朗海外资产",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%B7%B2%E5%90%8C%E6%84%8F%E8%A7%A3%E5%86%BB%E4%BC%8A%E6%9C%97%E6%B5%B7%E5%A4%96%E8%B5%84%E4%BA%A7%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：真主党导弹在以色列谢莫纳城引发火灾。",
+          "url": "https://flash.jin10.com/detail/20260411142655398800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
+          "title": "伊朗媒体公布伊朗谈判代表团人员组成",
+          "url": "https://wallstreetcn.com/livenews/3086162",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "谈判前夜美伊“剑拔弩张”：伊朗提“新条件”，特朗普威胁“加大打击”",
+          "url": "https://wallstreetcn.com/articles/3769722",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
+          "title": "美伊谈判倒计时！特朗普：若谈不拢将加大打击 霍尔木兹将很快重开",
+          "url": "https://www.cls.cn/detail/2341151",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
+          "title": "伊朗代表团已经抵达伊斯兰堡，特朗普称未来 24 小时将成为关键窗口，美伊谈判前景如何？",
+          "url": "https://www.zhihu.com/question/2026203195517477584",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
+          "title": "无视特朗普力挺！“大空头”伯里放话：Palantir股价腰斩都不够",
+          "url": "https://www.cls.cn/detail/2341106",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
+          "title": "特朗普称若未达成协议 将加大对伊朗军事打击 | 环球市场",
+          "url": "https://www.cls.cn/detail/2341138",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美股收盘：芯片股走强纳指八连升 道指标普回落仍周涨超3%",
+          "url": "https://www.cls.cn/detail/2341126",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
+          "title": "李大霄解读美股单周表现",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E8%82%A1%E5%8D%95%E5%91%A8%E8%A1%A8%E7%8E%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
+          "title": "美股巨震",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E5%B7%A8%E9%9C%87%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时14分"
-        },
-        {
-          "title": "伊朗每天限15艘船通过霍尔木兹海峡",
-          "url": "https://www.toutiao.com/trending/7626753597400763914/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时14分"
+          "time_info": "17时52分"
         }
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 4,
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
       "titles": [
         {
-          "title": "以总理指示尽快启动与黎巴嫩直接谈判，特朗普要求以减少袭黎，伊朗称为再发生冲突做好准备",
-          "url": "https://wallstreetcn.com/articles/3769619",
-          "source": "华尔街见闻",
+          "title": "OpenAI 创始人奥尔特曼住所遭燃烧瓶袭击，具体是怎么回事？",
+          "url": "https://www.zhihu.com/question/2026136705757902456",
+          "source": "知乎",
           "ranks": [
-            4
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时14分"
+          "time_info": "17时52分"
         },
         {
-          "title": "特朗普真要从欧洲撤走美军？白宫称“在商讨”",
-          "url": "https://news.ifeng.com/c/8sDAVEwvCNz",
-          "source": "凤凰网",
+          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
+          "url": "https://www.cls.cn/detail/2341199",
+          "source": "财联社热门",
           "ranks": [
-            9
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时14分"
-        },
-        {
-          "title": "格陵兰岛总理回应特朗普：我们不是一块冰",
-          "url": "https://news.ifeng.com/c/8sClfHB09mn",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时14分"
-        },
-        {
-          "title": "特朗普对鲤鱼宣战",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E9%B2%A4%E9%B1%BC%E5%AE%A3%E6%88%98%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时14分"
+          "time_info": "17时52分"
         }
       ]
     }
