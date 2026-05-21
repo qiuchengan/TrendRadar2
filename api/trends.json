@@ -1,171 +1,184 @@
 {
-  "generated_at": "2026-05-20T19:58:37.747335+08:00",
-  "total_titles_processed": 314,
-  "failed_sources": [],
+  "generated_at": "2026-05-21T20:25:06.166195+08:00",
+  "total_titles_processed": 302,
+  "failed_sources": [
+    "cls-hot"
+  ],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 9,
+      "match_count": 8,
       "titles": [
         {
-          "title": "伊朗国际关系事务副代表库米：伊朗的重要成就之一是培养了有信仰、有担当的人。",
-          "url": "https://flash.jin10.com/detail/20260520193721938800",
-          "source": "金十数据",
+          "title": "美国会众议院将表决一项涉伊朗战争决议",
+          "url": "https://wallstreetcn.com/livenews/3107424",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时58分"
+          "time_info": "20时25分"
         },
         {
-          "title": "伊朗总统称战争期间能源生产供应未中断",
-          "url": "https://wallstreetcn.com/livenews/3106701",
+          "title": "伊朗总统：政府将全力支持加强武装力量",
+          "url": "https://wallstreetcn.com/livenews/3107422",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时58分"
+          "time_info": "20时25分"
         },
         {
-          "title": "伊朗称有权对霍尔木兹海峡海底光缆收管理费，光缆每天承载超 10 万亿美元的全球金融数据，此举影响力有多大？",
-          "url": "https://www.zhihu.com/question/2040001269360767857",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时58分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：伊朗方面表示，在霍尔木兹海峡的入口处，违规和隐蔽的油轮已被识别并受到惩罚。",
-          "url": "https://flash.jin10.com/detail/20260520193518275800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时58分"
-        },
-        {
-          "title": "英国财政大臣里夫斯：伊朗的战争正在推高油价，所以我们要采取行动。 我们将把每升5便士的燃油税减免延长到年底——让数百万司机的成本更低。 我们有正确的经济计划来保护家庭，建设更强大的英国。",
-          "url": "https://flash.jin10.com/detail/20260520193323626800",
-          "source": "金十数据",
+          "title": "伊朗最高领袖：接近武器级的铀得留下",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%EF%BC%9A%E6%8E%A5%E8%BF%91%E6%AD%A6%E5%99%A8%E7%BA%A7%E7%9A%84%E9%93%80%E5%BE%97%E7%95%99%E4%B8%8B",
+          "source": "百度热搜",
           "ranks": [
             14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时58分"
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 20时25分]"
         },
         {
-          "title": "伊朗卫生部长：美国和以色列对伊朗医疗中心犯下了滔天罪行。",
-          "url": "https://flash.jin10.com/detail/20260520192925637800",
+          "title": "美国会众议院将表决一项涉伊朗战争决议",
+          "url": "https://flash.jin10.com/detail/20260521201914091800",
           "source": "金十数据",
           "ranks": [
-            18
+            11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时58分"
+          "time_info": "20时25分"
         },
         {
-          "title": "伊朗总统：战争期间能源生产供应未中断",
-          "url": "https://flash.jin10.com/detail/20260520192116350800",
+          "title": "强硬回绝！伊朗最高领袖下死令：严禁高浓缩铀外运",
+          "url": "https://flash.jin10.com/detail/20260521201246368800",
           "source": "金十数据",
           "ranks": [
-            25
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时58分"
+          "time_info": "20时25分"
         },
         {
-          "title": "伊朗在德黑兰逮捕一名与摩萨德有关联人员",
-          "url": "https://wallstreetcn.com/livenews/3106672",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗外交部发言人：欧洲应从二战时期的绥靖政策经历中汲取教训，停止在面对以色列政权时无所作为。",
+          "url": "https://flash.jin10.com/detail/20260521201226254800",
+          "source": "金十数据",
           "ranks": [
-            26
+            17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时58分"
+          "time_info": "20时25分"
         },
         {
-          "title": "巴基斯坦内政部长再次访问伊朗",
-          "url": "https://wallstreetcn.com/livenews/3106666",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗副总统：政府解决能源失衡的方案不是涨价，已将降低消费和改变生活方式作为工作重点，并已授权伊斯法罕省试点实施相关计划。",
+          "url": "https://flash.jin10.com/detail/20260521201051896800",
+          "source": "金十数据",
           "ranks": [
-            29
+            20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时58分"
+          "time_info": "20时25分"
+        },
+        {
+          "title": "伊朗副总统：由于需要大量资金和较长时间，增加能源生产能力并非政府的当务之急。",
+          "url": "https://flash.jin10.com/detail/20260521201023736800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         }
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 5,
+      "keyword_group": "特朗普",
+      "match_count": 7,
       "titles": [
         {
-          "title": "美股芯片股已严重超买！美银警告：历史7次类似信号后平均暴跌44%",
-          "url": "https://wallstreetcn.com/articles/3772678",
+          "title": "中方回应特朗普称将与赖清德对话",
+          "url": "https://news.ifeng.com/c/8tJCrQkCYgq",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 20时25分]"
+        },
+        {
+          "title": "中方回应特朗普称将与赖清德谈军售",
+          "url": "https://www.toutiao.com/trending/7642244493529321014/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 20时25分]"
+        },
+        {
+          "title": "外交部回应“特朗普将与赖清德交谈”",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E4%B8%8E%E8%B5%96%E6%B8%85%E5%BE%B7%E4%BA%A4%E8%B0%88%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 20时25分]"
+        },
+        {
+          "title": "美副防长能否访华与特朗普如何处理对台军售挂钩？外交部回应",
+          "url": "https://news.ifeng.com/c/8tJDfVFuwhB",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 20时25分]"
+        },
+        {
+          "title": "特朗普回应中俄元首会晤",
+          "url": "https://news.ifeng.com/c/8tIjMNQDlpG",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 20时25分]"
+        },
+        {
+          "title": "特朗普一句话击穿油市！布油盘中跌超7%，美国库存创纪录暴跌也挡不住",
+          "url": "https://wallstreetcn.com/articles/3772754",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时58分"
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 20时25分]"
         },
         {
-          "title": "段永平最新美股持仓曝光！豪掷12亿美元重仓特斯拉，大举加仓英伟达、拼多多",
-          "url": "https://wallstreetcn.com/articles/3772698",
-          "source": "华尔街见闻",
+          "title": "特朗普称将与赖清德谈对台军售，外交部：敦促美方兑现所作承诺和表态",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33205095",
+          "source": "澎湃新闻",
           "ranks": [
-            9
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时58分"
-        },
-        {
-          "title": "美股费城半导体指数七日跌幅一度逼近10%，抄底资金开始入场",
-          "url": "https://wallstreetcn.com/articles/3772667",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时58分"
-        },
-        {
-          "title": "孩之宝第二财季调整后每股收益1.47美元，预期为1.25美元。 第二财季调整后息税折旧摊销前利润为3.394亿美元，预期为3.139亿美元。 孩之宝仍预计全年调整后息税折旧摊销前利润为14.0亿至14.5亿美元，市场预期为14.4亿美元。 孩之宝美股盘前微跌。",
-          "url": "https://wallstreetcn.com/livenews/3106677",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时58分"
-        },
-        {
-          "title": "塔吉特一季度净销售额254.4亿美元，同比增长6.7%。 一季度调整后每股收益1.71美元，去年同期为1.30美元。 塔吉特预计本财年调整后每股收益在7.50至8.50美元区间的高端。 塔吉特美股盘前微跌。",
-          "url": "https://wallstreetcn.com/livenews/3106676",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时58分"
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 20时25分]"
         }
       ]
     },
@@ -174,71 +187,77 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "美债上演“投降式大抛售”，高利率阴霾笼罩股市",
-          "url": "https://wallstreetcn.com/articles/3772671",
+          "title": "美伊冲突降温，WTI原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
+          "url": "https://wallstreetcn.com/articles/3772708",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时58分"
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 20时25分]"
         },
         {
-          "title": "美债风暴只是表象？一文读懂：真正能冲击AI牛的是流动性！",
-          "url": "https://www.cls.cn/detail/2376546",
-          "source": "财联社热门",
+          "title": "核谈判僵持，油价攀升，美股涨势受阻，量子计算股盘前拉升，美债震荡",
+          "url": "https://wallstreetcn.com/articles/3772777",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时58分"
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 20时25分]"
         }
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "特朗普现身白宫宴会厅施工现场，称这是献给国家的礼物",
-          "url": "https://news.ifeng.com/c/8tHSbfpek1w",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时58分"
-        },
-        {
-          "title": "郑丽文：特朗普叫台湾不要再讲“台独”，民进党还装听不懂",
-          "url": "https://news.ifeng.com/c/8tHcSaikz2t",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
         {
-          "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
-          "url": "https://wallstreetcn.com/articles/3772658",
-          "source": "华尔街见闻",
+          "title": "不小心把DeepSeek叫成豆包",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8A%8ADeepSeek%E5%8F%AB%E6%88%90%E8%B1%86%E5%8C%85&t=31&band_rank=4&Refer=top",
+          "source": "微博",
           "ranks": [
-            2
+            4
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 20时25分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何评价 OpenAI 称推翻困扰数学界近 80 年的「平面单位距离猜想」？这一结果的可信度如何？",
+          "url": "https://www.zhihu.com/question/2040738759281473391",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 20时25分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "沃尔玛一季度营收1,777.5亿美元，预估1,750.6亿美元。 一季度调整后每股收益0.66美元，上年同期0.61美元，预估0.66美元。 一季度调整后运营收益76.7亿美元，预估76.9亿美元。 沃尔玛仍然预测全年调整后每股收益2.75美元至2.85美元，市场预估2.92美元。 沃尔玛预计第二季度调整后每股收益0.72美元至0.74美元。 沃尔玛美股盘前跌近3%。",
+          "url": "https://wallstreetcn.com/livenews/3107384",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时58分"
+          "time_info": "20时25分"
         }
       ]
     }
