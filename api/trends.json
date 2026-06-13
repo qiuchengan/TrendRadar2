@@ -1,211 +1,271 @@
 {
-  "generated_at": "2026-06-12T20:25:52.024010+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-06-13T19:23:01.232748+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 15,
       "titles": [
         {
-          "title": "伊朗发布“头骨世界杯”海报",
-          "url": "https://www.toutiao.com/trending/7650111233802731539/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "据CNN援引消息人士称，以色列正施压阻止在停火协议中解冻伊朗资产的部分。",
-          "url": "https://flash.jin10.com/detail/20260612200843219800",
+          "title": "伊朗外长阿拉格齐：伊朗和阿曼将就霍尔木兹海峡发布联合声明。",
+          "url": "https://flash.jin10.com/detail/20260613185617701800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时25分"
+          "time_info": "19时23分"
         },
         {
-          "title": "伊朗方面公布伊美谅解备忘录新细节",
-          "url": "https://news.ifeng.com/c/8ttmPg8dMjP",
+          "title": "伊朗已故最高领袖将于7月9日下葬",
+          "url": "https://wallstreetcn.com/livenews/3119145",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
+        },
+        {
+          "title": "伊朗公布已故最高领袖哈梅内伊葬礼安排",
+          "url": "https://wallstreetcn.com/livenews/3119144",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
+        },
+        {
+          "title": "伊朗已故最高领袖哈梅内伊将于7月9日下葬",
+          "url": "https://flash.jin10.com/detail/20260613183636185800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
+        },
+        {
+          "title": "多名伊朗国足代表团成员签证被拒，美国回应",
+          "url": "https://news.ifeng.com/c/8tvGP2lQey4",
           "source": "凤凰网",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时25分"
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 19时23分]"
         },
         {
-          "title": "伊朗战争推高通胀压力，欧洲央行近三年来首次加息！",
-          "url": "https://wallstreetcn.com/articles/3774438",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "内塔尼亚胡称绝不会让伊朗有核武器",
-          "url": "https://wallstreetcn.com/livenews/3118879",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗已故最高领袖将于7月9日下葬",
+          "url": "https://www.toutiao.com/trending/7650457789692825107/",
+          "source": "今日头条",
           "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时25分"
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 19时23分]"
         },
         {
-          "title": "油价下挫5%！伊朗公布伊美谅解备忘录新细节，霍尔木兹海峡或30天内重开",
-          "url": "https://wallstreetcn.com/articles/3774522",
+          "title": "“美伊协议即将达成”叙事回归，但伊朗拒绝放弃霍尔木兹海峡“筹码”",
+          "url": "https://wallstreetcn.com/articles/3774540",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时25分"
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 19时23分]"
         },
         {
-          "title": "伊媒称伊朗未就放弃霍尔木兹海峡管理权作出承诺",
-          "url": "https://wallstreetcn.com/livenews/3118852",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗外长披露伊美谅解备忘录草案部分内容",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33372202",
+          "source": "澎湃新闻",
           "ranks": [
-            26
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时25分"
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 19时23分]"
         },
         {
-          "title": "伊朗方面公布伊美谅解备忘录新细节",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%96%B9%E9%9D%A2%E5%85%AC%E5%B8%83%E4%BC%8A%E7%BE%8E%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95%E6%96%B0%E7%BB%86%E8%8A%82",
+          "title": "世界杯伊朗队训练场旁发现腐尸",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BC%8A%E6%9C%97%E9%98%9F%E8%AE%AD%E7%BB%83%E5%9C%BA%E6%97%81%E5%8F%91%E7%8E%B0%E8%85%90%E5%B0%B8",
           "source": "百度热搜",
           "ranks": [
-            30
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "几小时内反转！特朗普称取消打击伊朗计划，协议基本定稿、伊朗各方批准，或周末在欧洲签署",
-          "url": "https://wallstreetcn.com/articles/3774457",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时25分"
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 19时23分]"
         },
         {
-          "title": "国际油价飙升！特朗普：今晚将重创伊朗，“在不久的将来”将占领哈尔克岛",
-          "url": "https://wallstreetcn.com/articles/3774439",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "特朗普涉伊朗表态“大转弯”，以总理“猝不及防”",
-          "url": "https://news.ifeng.com/c/8ttnDWEmW7E",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "内塔尼亚胡：特朗普没提前告诉我",
-          "url": "https://news.ifeng.com/c/8ttf3o3HpAs",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "特朗普说了30多次“即将达成协议”，市场却一直相信他",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33365641",
+          "title": "伊朗外长：伊朗仅接受在境内“稀释处理”浓缩铀库存",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33372320",
           "source": "澎湃新闻",
           "ranks": [
             15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 19时23分]"
+        },
         {
-          "title": "我们真的需要又一个 DeepSeek V5 吗？",
-          "url": "https://www.zhihu.com/question/2031303606524186735",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国财经媒体Semafor：OpenAI创始人奥尔特曼原定于本周末访问阿布扎比，但已取消行程。",
-          "url": "https://flash.jin10.com/detail/20260612195519793800",
+          "title": "伊朗公布已故最高领袖哈梅内伊葬礼安排",
+          "url": "https://flash.jin10.com/detail/20260613183333910800",
           "source": "金十数据",
           "ranks": [
-            28
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
+        },
+        {
+          "title": "巴基斯坦外长：与瑞士外长一致希望美国与伊朗的努力能促进地区和平与稳定。",
+          "url": "https://flash.jin10.com/detail/20260613173510600800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
+        },
+        {
+          "title": "黎巴嫩外长否认美伊协议中包含了黎巴嫩停火条款，并强调需要将黎巴嫩事务与伊朗事务分开。",
+          "url": "https://flash.jin10.com/detail/20260613173416307800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
+        },
+        {
+          "title": "黎巴嫩外长：即使伊朗政权没有垮台，黎巴嫩也有能力终结真主党的武器问题。",
+          "url": "https://flash.jin10.com/detail/20260613173245745800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
+        },
+        {
+          "title": "墨警方称训练场旁腐尸非针对伊朗队",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A2%A8%E8%AD%A6%E6%96%B9%E7%A7%B0%E8%AE%AD%E7%BB%83%E5%9C%BA%E6%97%81%E8%85%90%E5%B0%B8%E9%9D%9E%E9%92%88%E5%AF%B9%E4%BC%8A%E6%9C%97%E9%98%9F%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时25分"
+          "time_info": "19时22分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
-          "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
-          "url": "https://wallstreetcn.com/articles/3774389",
-          "source": "华尔街见闻",
+          "title": "美股收盘：SpaceX首秀升19%市值破2万亿 三大指数集体上涨",
+          "url": "https://www.cls.cn/detail/2398916",
+          "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 19时23分]"
+        },
+        {
+          "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
+          "url": "https://wallstreetcn.com/articles/3774481",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 19时23分]"
+        },
+        {
+          "title": "SpaceX上市引发“虹吸效应” 美股太空概念集体跳水",
+          "url": "https://www.cls.cn/detail/2398893",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 19时23分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "特朗普姓名被从肯尼迪中心外墙移除",
+          "url": "https://news.ifeng.com/c/8tvV5h0ssCW",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 19时23分]"
+        },
+        {
+          "title": "特朗普否认伊媒披露的美伊协议草案：与双方书面协议毫无关系",
+          "url": "https://www.cls.cn/detail/2398839",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 19时23分]"
+        },
+        {
+          "title": "据英国金融时报：投资公司加入美国总统特朗普的1000亿美元委内瑞拉石油竞赛。狮心资本（Lionheart Capital）计划通过与旗下空白支票公司Lionheart Holdings合并，以约10亿美元的估值将一家委内瑞拉石油公司上市。",
+          "url": "https://flash.jin10.com/detail/20260613182624858800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时25分"
+          "time_info": "19时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "央行狂买黄金金价却暴跌",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A1%8C%E7%8B%82%E4%B9%B0%E9%BB%84%E9%87%91%E9%87%91%E4%BB%B7%E5%8D%B4%E6%9A%B4%E8%B7%8C%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
         }
       ]
     }
