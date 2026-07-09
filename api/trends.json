@@ -1,259 +1,226 @@
 {
-  "generated_at": "2026-07-08T19:11:24.109017+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-07-09T20:12:51.285871+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 11,
+      "keyword_group": "伊朗",
+      "match_count": 14,
       "titles": [
         {
-          "title": "特朗普称美伊谅解备忘录已经终结",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
+          "title": "伊朗向美军事基地发射导弹",
+          "url": "https://wallstreetcn.com/livenews/3131352",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时11分"
+          "time_info": "20时12分"
         },
         {
-          "title": "特朗普要求切断与西班牙一切贸易往来，西班牙回应",
-          "url": "https://news.ifeng.com/c/8ub1oqRPQxp",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
-          "title": "美伊战火重燃！特朗普称谅解备忘录“已终结”，斥伊朗人是“人渣”",
-          "url": "https://wallstreetcn.com/articles/3776459",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
-          "title": "黎巴嫩总统：预计此次华盛顿之行及与特朗普的会晤将为黎巴嫩带来积极成果。",
-          "url": "https://flash.jin10.com/detail/20260708184731307800",
+          "title": "英国外交大臣：伊朗意图将霍尔木兹海峡当做自己的筹码。",
+          "url": "https://flash.jin10.com/detail/20260709200819907800",
           "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时12分"
+        },
+        {
+          "title": "伊朗称美军空袭布什尔省已致3人死亡",
+          "url": "https://wallstreetcn.com/livenews/3131349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时12分"
+        },
+        {
+          "title": "伊朗阿巴斯港传出多次爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3131348",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时11分"
+          "time_info": "20时12分"
         },
         {
-          "title": "伊朗打击周边国家美军基地 特朗普称美伊谅解备忘录“已终结”",
-          "url": "https://www.cls.cn/detail/2420443",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
-          "title": "国际油价大涨6%金银跳水！特朗普一言引爆全球市场",
-          "url": "https://www.cls.cn/detail/2420505",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
-          "title": "特朗普：美伊谅解备忘录“已终结”",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E4%BC%8A%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95%E2%80%9C%E5%B7%B2%E7%BB%88%E7%BB%93%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
-          "title": "特朗普：美伊谅解备忘录“已终结”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33541797",
+          "title": "美军称再次对伊朗发起打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33546490",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时11分"
+          "time_info": "20时12分"
         },
         {
-          "title": "美国总统特朗普：我们举行了一些非常好的会议，特别是与土耳其的会议。",
-          "url": "https://flash.jin10.com/detail/20260708182412135800",
+          "title": "美军对伊朗发动新一轮打击，伊朗称将很快反击，美伊为何突然再次撕破脸？美方军事行动背后有何盘算？",
+          "url": "https://www.zhihu.com/question/2058455554222027217",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时12分"
+        },
+        {
+          "title": "英国外交大臣：伊朗必须放弃对航运路线的控制主张。",
+          "url": "https://flash.jin10.com/detail/20260709200044241800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时12分"
+        },
+        {
+          "title": "美军驻约旦基地遭伊朗袭击",
+          "url": "https://wallstreetcn.com/livenews/3131336",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时12分"
+        },
+        {
+          "title": "【伊朗媒体：布什尔核电站周边区域遭美军袭击】伊朗媒体9日援引布什尔省副省长的话说，当日下午，布什尔省多地遭美军袭击，其中包括布什尔核电站周边区域。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3131324",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时12分"
+        },
+        {
+          "title": "伊朗革命卫队：美国恐怖主义军队的冒险行径及其对通行航线的干预，不仅将招致我们的毁灭性回应，还会严重扰乱逐步开放进程，并危及霍尔木兹海峡各使用国的利益。",
+          "url": "https://flash.jin10.com/detail/20260709195023082800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时12分"
+        },
+        {
+          "title": "伊朗革命卫队：我们正不断提升准许通过的船舶数量——这些船舶须严格遵守安全规定，从伊斯兰革命卫队海军获得通过伊朗伊斯兰共和国指定航道的许可。",
+          "url": "https://flash.jin10.com/detail/20260709195010372800",
           "source": "金十数据",
           "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时11分"
+          "time_info": "20时12分"
         },
         {
-          "title": "美国总统特朗普：我们昨晚与埃尔多安总统共进晚餐。我会给这次晚餐打10分，也可以打12分。",
-          "url": "https://flash.jin10.com/detail/20260708182325318800",
+          "title": "伊朗革命卫队：我们在过去两周内确立了对霍尔木兹海峡的管控并维护了其安全，现已逐步重新开放航道，将通航能力恢复至战前水平的约50%。",
+          "url": "https://flash.jin10.com/detail/20260709195002222800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时12分"
+        },
+        {
+          "title": "伊朗革命卫队：外国势力在霍尔木兹海峡不会得到任何利益份额。",
+          "url": "https://flash.jin10.com/detail/20260709194941104800",
           "source": "金十数据",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时11分"
+          "time_info": "20时12分"
         },
         {
-          "title": "特朗普认为美伊谅解备忘录已终结",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A4%E4%B8%BA%E7%BE%8E%E4%BC%8A%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95%E5%B7%B2%E7%BB%88%E7%BB%93%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
+          "title": "伊朗布什尔核电站周边遭到美国炮弹袭击。（伊朗国家媒体）",
+          "url": "https://wallstreetcn.com/livenews/3131315",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            30
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时11分"
+          "time_info": "20时12分"
         }
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 11,
+      "keyword_group": "特朗普",
+      "match_count": 5,
       "titles": [
         {
-          "title": "霍尔木兹冲击波！美国撤销伊朗石油销售豁免，美军称开始对伊发动强力打击",
-          "url": "https://wallstreetcn.com/articles/3776409",
+          "title": "美军又袭伊朗！特朗普威胁“今夜”再打、恢复海上封锁，后一度“降温”：美伊局势升级会很快平息",
+          "url": "https://wallstreetcn.com/articles/3776487",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时11分"
+          "time_info": "20时12分"
         },
         {
-          "title": "伊朗总统缺席哈梅内伊送葬仪式，从伊拉克紧急回国",
-          "url": "https://news.ifeng.com/c/8uaIcKZ6By5",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
-          "title": "伊朗革命卫队反击：打击了85个美国军事目标",
-          "url": "https://news.ifeng.com/c/8uadsQoFuXq",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
-          "title": "伊朗议长：霸凌与敲诈的时代已经结束",
-          "url": "https://news.ifeng.com/c/8uanFtiMlYj",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
-          "title": "美军再袭伊朗致多人受伤，伊朗总统启程回国，强度是 10 天前四五倍，如何看待此轮打击？",
-          "url": "https://www.zhihu.com/question/2058125610363401206",
-          "source": "知乎",
+          "title": "特朗普称“今夜可能再打伊朗”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33544015",
+          "source": "澎湃新闻",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时11分"
+          "time_info": "20时12分"
         },
         {
-          "title": "美军称开始对伊朗发动系列打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33539157",
+          "title": "特朗普：伊朗这件事上，中国赢得了美国的尊重",
+          "url": "https://news.ifeng.com/c/8ubvs5fh8MS",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时12分"
+        },
+        {
+          "title": "美国贸易代表格里尔：特朗普希望与墨西哥的贸易逆差减少。",
+          "url": "https://flash.jin10.com/detail/20260709200624666800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时12分"
+        },
+        {
+          "title": "新闻蒸馏器｜美伊开火海峡重回风暴，特朗普又说很快平息，意味着什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33547226",
           "source": "澎湃新闻",
           "ranks": [
-            7
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
-          "title": "伊朗海军上将西亚里：无论美方发表何种言辞，都无法让美军有胆量采取侵略行动。",
-          "url": "https://flash.jin10.com/detail/20260708183643150800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
-          "title": "伊朗海军上将西亚里：美方的言论旨在将伊朗海岸线描绘成易受军事干预的目标，美国正通过反复发表公开声明，对伊朗人民发动心理战。",
-          "url": "https://flash.jin10.com/detail/20260708183532759800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
-          "title": "伊朗总统：美国在世界杯上行为体现其“霸凌”本质",
-          "url": "https://wallstreetcn.com/livenews/3130604",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
-          "title": "伊朗称胡齐斯坦省遭美方袭击 致1死2伤",
-          "url": "https://wallstreetcn.com/livenews/3130603",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
-          "title": "伊朗布什尔省两处军事基地遭袭",
-          "url": "https://wallstreetcn.com/livenews/3130598",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时11分"
+          "time_info": "20时12分"
         }
       ]
     },
@@ -262,43 +229,26 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "中东战火再燃，美股期指跌超1%，韩股入熊，油价大涨6%，金银跳水",
+          "title": "特朗普\"开火威胁\"搅动全球市场，降温表态后美股跌幅收窄，芯片股力撑纳指收涨，中概股大涨",
           "url": "https://wallstreetcn.com/articles/3776425",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时11分"
+          "time_info": "20时12分"
         },
         {
-          "title": "博通美股盘前转涨，此前一度跌近3%。",
-          "url": "https://wallstreetcn.com/livenews/3130594",
-          "source": "华尔街见闻-快讯",
+          "title": "海力士美股IPO点燃AI热情，美光盘前涨3%、康宁涨5%，韩股弱势反弹，黄金触及4100",
+          "url": "https://wallstreetcn.com/articles/3776523",
+          "source": "华尔街见闻",
           "ranks": [
-            23
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "吐槽 DeepSeek 面试的华为天才少年李博杰被投资人控诉诈骗，李博杰称始终履行职责，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2058168270499176758",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时11分"
+          "time_info": "20时12分"
         }
       ]
     }
