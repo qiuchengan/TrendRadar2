@@ -1,233 +1,221 @@
 {
-  "generated_at": "2026-07-28T19:25:23.682257+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-29T19:32:20.867480+08:00",
+  "total_titles_processed": 306,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 7,
+      "keyword_group": "伊朗",
+      "match_count": 9,
       "titles": [
         {
-          "title": "一文读懂：美股“芯片风暴”究竟是如何发生的？",
-          "url": "https://www.cls.cn/detail/2438605",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时25分"
-        },
-        {
-          "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
-          "url": "https://wallstreetcn.com/articles/3778058",
-          "source": "华尔街见闻",
+          "title": "伊朗谴责美国沙特袭击伊拉克",
+          "url": "https://wallstreetcn.com/livenews/3141668",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时25分"
+          "time_info": "19时32分"
         },
         {
-          "title": "葛兰素史克第二季度调整后每股收益50.5便士，预期46.8便士。 第二季度营收84.1亿英镑，预期82.5亿英镑。 葛兰素史克仍预计全年按固定汇率计算销售额增长3%至5%。 葛兰素史克仍预计全年调整后每股收益增长7%至9%。 葛兰素史克仍预计全年调整后营业利润增长7%至9%。 葛兰素史克美股盘前跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3140977",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时25分"
-        },
-        {
-          "title": "PayPal第二季度调整后每股收益1.38美元，预估1.27美元。 第二季度净营收86.8亿美元，同比增长4.8%，预估84.6亿美元。 第二季度活跃客户账户数4.4亿，同比增长0.2%，预估4.4亿。 第二季度调整后运营收益15.1亿美元，同比下降8.3%，预估14.3亿美元。 第二季度调整后运营利润率17％，上年同期20％，预估16.9％。 第二季度调整后自由现金流18.3亿美元，上年同期6.56亿美元，预估15亿美元 PayPal预计全年调整后每股收益大约5.38美元，市场预估5.31美元。 PayPal仍然预测全年资本支出大约10亿美元，市场预估9.686亿美元。 PayPal美股盘前涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3140976",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时25分"
-        },
-        {
-          "title": "可口可乐第二季度净营收134亿美元。 第二季度可比每股收益0.97美元，预估0.93美元。 可口可乐预计全年可比每股收益增长9％至10％，此前预计8％至9％。 可口可乐仍然预测全年资本支出22亿美元，市场预估21.8亿美元。 可口可乐美股盘前涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3140972",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时25分"
-        },
-        {
-          "title": "长鑫上市后，美股「半导体 - 芯片板块」普跌，SK 海力士破发，早盘韩股熔断，日经大跌，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2065354296774989670",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时25分"
-        },
-        {
-          "title": "美股半导体崩盘,闪迪跌破新低",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356568&amp;topic_name=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B4%A9%E7%9B%98%2C%E9%97%AA%E8%BF%AA%E8%B7%8C%E7%A0%B4%E6%96%B0%E4%BD%8E",
-          "source": "贴吧",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "用伊朗逻辑打伊朗商船！乌克兰出手，中东战火恐延烧至里海",
-          "url": "https://news.ifeng.com/c/8v7v4J57Txn",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时25分"
-        },
-        {
-          "title": "美暂停打击伊朗的军事行动，是因为美军被打疼了？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33668433",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时25分"
-        },
-        {
-          "title": "伊朗导弹甩开美军多枚拦截弹画面",
-          "url": "https://www.toutiao.com/trending/7666729375357865515/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时25分"
-        },
-        {
-          "title": "泽连斯基：乌克兰与伊朗已处于战争中",
-          "url": "https://news.ifeng.com/c/8v7xlBI6J9Z",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时25分"
-        },
-        {
-          "title": "德国央行称伊朗冲突冲击下 德国经济料仍实现增长",
-          "url": "https://wallstreetcn.com/livenews/3140969",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时25分"
-        },
-        {
-          "title": "国际观察丨对伊朗停火，美国这次是“不打了”还是“打不了”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33669415",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时25分"
-        },
-        {
-          "title": "伊朗议会议长卡利巴夫在会议上强调，在战争状态下，政府和议会需要处理优先问题。他表示，保障民众和武装力量的生计是政府和议会的紧急且重要的优先事项。",
-          "url": "https://flash.jin10.com/detail/20260728184616377800",
+          "title": "伊朗谴责美国沙特袭击伊拉克",
+          "url": "https://flash.jin10.com/detail/20260729191224310800",
           "source": "金十数据",
           "ranks": [
-            24
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "600名以色列前高官联名致信特朗普，发出警告",
-          "url": "https://news.ifeng.com/c/8v7UlJm7wWT",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时25分"
+          "time_info": "19时32分"
         },
         {
-          "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33670163",
-          "source": "澎湃新闻",
+          "title": "伊朗外长阿拉格齐与欧盟外交与安全政策高级代表卡拉斯通话时称，乌克兰外长在电话中向阿拉格齐确认，对伊朗船只的袭击并非蓄意为之，这一说法伊朗不可接受。",
+          "url": "https://flash.jin10.com/detail/20260729191139829800",
+          "source": "金十数据",
           "ranks": [
-            12
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
+          "time_info": "19时32分"
+        },
         {
-          "title": "真逗,DeepSeek说要去吃饭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356554&amp;topic_name=%E7%9C%9F%E9%80%97%2CDeepSeek%E8%AF%B4%E8%A6%81%E5%8E%BB%E5%90%83%E9%A5%AD",
-          "source": "贴吧",
+          "title": "专家：乌克兰对伊朗商船动手，是在向美国交“投名状”",
+          "url": "https://news.ifeng.com/c/8v8Yy57TOBs",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
+          "title": "伊媒称美空袭伊朗与伊拉克边境地区",
+          "url": "https://wallstreetcn.com/livenews/3141656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
+          "title": "伊朗外交部：谴责美国和沙特对伊拉克民兵的攻击。",
+          "url": "https://flash.jin10.com/detail/20260729190152948800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
+          "title": "对伊朗军事行动以来，美以领导人首次会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33678142",
+          "source": "澎湃新闻",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时25分"
+          "time_info": "19时32分"
+        },
+        {
+          "title": "英媒：美国轰炸难让伊朗屈服",
+          "url": "https://wallstreetcn.com/livenews/3141646",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
+          "title": "“敌方发射物”击中伊朗西阿塞拜疆省。（法尔斯通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3141641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时32分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "keyword_group": "特朗普",
+      "match_count": 5,
       "titles": [
         {
-          "title": "绑定SK集团与OpenAI！英伟达卷入7500亿美元豪赌，AI“循环融资”警报再响",
-          "url": "https://wallstreetcn.com/articles/3778049",
-          "source": "华尔街见闻",
+          "title": "卢拉讽刺特朗普：每个巴西公民都能享有总统同等医疗待遇",
+          "url": "https://v.ifeng.com/c/8v9pAhXFNg6",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
+          "title": "明查｜特朗普的替身出现了？先把视频暂停一下",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33674010",
+          "source": "澎湃新闻",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时25分"
+          "time_info": "19时32分"
+        },
+        {
+          "title": "特朗普被发现在格雷厄姆葬礼打瞌睡，白宫：他在缅怀",
+          "url": "https://v.ifeng.com/c/8v8ALtYnwhG",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
+          "title": "特朗普将宣布杜勒斯机场翻新计划细节。（美国哥伦比亚广播公司）",
+          "url": "https://wallstreetcn.com/livenews/3141654",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
+          "title": "特朗普：美墨加协定续不续签“无所谓”",
+          "url": "https://wallstreetcn.com/livenews/3141634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "FOMC和巨头财报在即，市场严阵以待！美股存储股盘前续跌，韩股连续两日暴跌熔断，油价涨超3%",
+          "url": "https://wallstreetcn.com/articles/3778176",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
+          "title": "康宁美股盘前暴跌15%！Q2营收利润双超预期，但Q3收入指引不够“惊喜”| 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778135",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
+          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3778080",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
+          "title": "宝洁第四财季销售净额212.0亿美元，预估213.4亿美元。 第四财季内生性收入增长0％，预估增长1.85％。 第四财季核心每股收益1.43美元，预估1.41美元。 宝洁预计2027年内生性收入增长1％至3％，预估增长2.44％。 宝洁预计2027年核心每股收益6.89美元至7.11美元，市场预估7.02美元。 宝洁美股盘前跌2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3141659",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时32分"
         }
       ]
     }
