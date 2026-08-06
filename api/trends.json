@@ -1,156 +1,205 @@
 {
-  "generated_at": "2026-08-05T19:26:23.272063+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-08-06T19:29:50.629491+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "Shopify第二季度营收35.8亿美元，预估34.5亿美元。 第二季度商品交易总额（GMV）1,155.7亿美元，预估1,121.2亿美元。 Shopify预计第三季度营收将以低三十位数百分比的速度增长（即同比增长约31%–33%）。 Shopify美股盘前涨超16%。",
-          "url": "https://wallstreetcn.com/livenews/3145357",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时26分"
-        },
-        {
-          "title": "优步第二季度营收141.9亿美元，预估142.4亿美元。 第二季度每股收益1.17美元。 第二季度调整后EBITDA为28.2亿美元，预估27.9亿美元。 第二季度总订单额580.2亿美元，预估571.7亿美元。 优步预计第三季度调整后每股收益84至88美分。 优步预计第三季度总订单额582.5亿至602.5亿美元，市场预估593.2亿美元。 优步美股盘前跌1.5%。",
-          "url": "https://wallstreetcn.com/livenews/3145355",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时26分"
-        },
-        {
-          "title": "【礼来第二季度营收229.7亿美元，预估205.9亿美元】礼来第二季度调整后每股收益8.38美元，去年同期为6.31美元。 礼来预计全年营收850亿至870亿美元，此前预期为820亿至850亿美元。 礼来预计全年调整后每股收益35.50至36.50美元，此前预期为35.50至37美元。 礼来美股盘前涨约4%",
-          "url": "https://wallstreetcn.com/livenews/3145348",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时26分"
-        },
-        {
-          "title": "迪士尼第三财季营收252.5亿美元，预估253.9亿美元。 第三财季调整后每股收益2.06美元，预估1.86美元。 迪士尼美股盘前涨近3%。",
-          "url": "https://wallstreetcn.com/livenews/3145342",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时26分"
-        }
-      ]
-    },
-    {
       "keyword_group": "伊朗",
-      "match_count": 3,
+      "match_count": 8,
       "titles": [
         {
-          "title": "私下谈判态度软化？伊朗考虑让欧洲清除霍尔木兹水雷",
-          "url": "https://news.ifeng.com/c/8vKnanF6ECv",
-          "source": "凤凰网",
+          "title": "伊朗总统：最高领袖决策过程遭人利用",
+          "url": "https://www.toutiao.com/trending/7670008339098750483/",
+          "source": "今日头条",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时26分"
+          "time_info": "19时29分"
         },
         {
-          "title": "伊朗的最后一张牌",
-          "url": "https://news.ifeng.com/c/8vLNKMOtVmN",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时26分"
-        },
-        {
-          "title": "【伊朗称霍尔木兹海峡不会立即开放】据伊朗国家电视台今天（8月5日）援引知情人士消息，伊朗与阿曼就霍尔木兹海峡船舶通行安排可能达成的协议，并不意味着海峡将立即恢复开放。消息称，伊朗与阿曼的相关谈判仅涉及双方就船舶通行秩序进行协调，与美国无关。消息人士同时表示，如果美国继续存在伊朗方面所称的“违规行为”，即便伊朗与阿曼达成协议，霍尔木兹海峡也不会恢复开放，其重新开放仍取决于美国改变相关行为并纠正其“违规行为”。（CCTV国际时讯）",
-          "url": "https://wallstreetcn.com/livenews/3145320",
+          "title": "伊朗情报部门在该国境内逮捕多名摩萨德特工",
+          "url": "https://wallstreetcn.com/livenews/3146002",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "DeepSeek干完活自己写了个游戏",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B9%B2%E5%AE%8C%E6%B4%BB%E8%87%AA%E5%B7%B1%E5%86%99%E4%BA%86%E4%B8%AA%E6%B8%B8%E6%88%8F&t=31&band_rank=4&Refer=top",
-          "source": "微博",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时26分"
+          "time_info": "19时29分"
         },
         {
-          "title": "梁文锋会不会成为中国AI里程碑人物？",
-          "url": "https://www.zhihu.com/question/10315979917",
-          "source": "知乎",
+          "title": "伊朗称与阿曼接近达成协议，海峡现有两条航道将关闭，“收费标准”仍是核心分歧",
+          "url": "https://wallstreetcn.com/articles/3778783",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        },
+        {
+          "title": "伊朗总统：目前与最高领袖联络困难 其决策过程遭人利用",
+          "url": "https://www.cls.cn/detail/2447200",
+          "source": "财联社热门",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
+          "time_info": "19时29分"
+        },
         {
-          "title": "如何看待 2026 年 8 月美债正式突破 40 万亿美元大关？压垮美债的最后一根稻草会是什么？",
-          "url": "https://www.zhihu.com/question/2067002987545884316",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "特朗普不满坡度与外观，要求重建白宫停机坪",
-          "url": "https://news.ifeng.com/c/8vKyAhdi2cE",
+          "title": "伊朗总统：最高领袖决策过程遭人利用",
+          "url": "https://news.ifeng.com/c/8vMnd0UIy30",
           "source": "凤凰网",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时26分"
+          "time_info": "19时29分"
+        },
+        {
+          "title": "伊朗总统：最高领袖决策过程遭人利用",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%EF%BC%9A%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%86%B3%E7%AD%96%E8%BF%87%E7%A8%8B%E9%81%AD%E4%BA%BA%E5%88%A9%E7%94%A8",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        },
+        {
+          "title": "伊朗总统称没有力量能让伊朗屈服",
+          "url": "https://wallstreetcn.com/livenews/3145983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        },
+        {
+          "title": "伊朗总统称与最高领袖联络非常困难",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E7%A7%B0%E4%B8%8E%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E8%81%94%E7%BB%9C%E9%9D%9E%E5%B8%B8%E5%9B%B0%E9%9A%BE%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "如何看待 DeepSeek 8 月 6 日公告称即将大幅度涨价？",
+          "url": "https://www.zhihu.com/question/2068628771687625392",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        },
+        {
+          "title": "DeepSeek预告将大幅涨价 V4正式版发布进入倒计时",
+          "url": "https://www.cls.cn/detail/2447135",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        },
+        {
+          "title": "DeepSeek拟上调API服务价格",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        },
+        {
+          "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33728016",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        },
+        {
+          "title": "DeepSeek拟上调API服务定价",
+          "url": "https://www.douyin.com/hot/2599312",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        },
+        {
+          "title": "DeepSeek拟调高API价格",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%8B%9F%E8%B0%83%E9%AB%98API%E4%BB%B7%E6%A0%BC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "一图看懂 | 金价刚突破4300美元关口，黄金股早已悄悄涨了30%",
+          "url": "https://www.cls.cn/detail/2447296",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "AppLovin美股盘前跌超16%，公司二季度营收不及预期。",
+          "url": "https://wallstreetcn.com/livenews/3145991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时29分"
         }
       ]
     }
