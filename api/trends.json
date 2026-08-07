@@ -1,205 +1,238 @@
 {
-  "generated_at": "2026-08-06T19:29:50.629491+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-08-07T18:07:11.882206+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "伊朗",
-      "match_count": 8,
+      "keyword_group": "特朗普",
+      "match_count": 10,
       "titles": [
         {
-          "title": "伊朗总统：最高领袖决策过程遭人利用",
-          "url": "https://www.toutiao.com/trending/7670008339098750483/",
-          "source": "今日头条",
+          "title": "“特朗普想缓和对华关系，美国年轻人也不想陷入新冷战”",
+          "url": "https://news.ifeng.com/c/8vOTWxkXcxc",
+          "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时29分"
+          "appearance_count": 2,
+          "time_info": "[18时06分 ~ 18时07分]"
         },
         {
-          "title": "伊朗情报部门在该国境内逮捕多名摩萨德特工",
-          "url": "https://wallstreetcn.com/livenews/3146002",
-          "source": "华尔街见闻-快讯",
+          "title": "“向特朗普同志致敬！”美国超级抹红大赛开始了",
+          "url": "https://news.ifeng.com/c/8vO9rqQQ3tN",
+          "source": "凤凰网",
           "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时29分"
+          "appearance_count": 2,
+          "time_info": "[18时06分 ~ 18时07分]"
         },
         {
-          "title": "伊朗称与阿曼接近达成协议，海峡现有两条航道将关闭，“收费标准”仍是核心分歧",
-          "url": "https://wallstreetcn.com/articles/3778783",
+          "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
+          "url": "https://wallstreetcn.com/articles/3778896",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时29分"
+          "appearance_count": 2,
+          "time_info": "[18时06分 ~ 18时07分]"
         },
         {
-          "title": "伊朗总统：目前与最高领袖联络困难 其决策过程遭人利用",
-          "url": "https://www.cls.cn/detail/2447200",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时29分"
-        },
-        {
-          "title": "伊朗总统：最高领袖决策过程遭人利用",
-          "url": "https://news.ifeng.com/c/8vMnd0UIy30",
+          "title": "特朗普言论意味着对台政策重大转变？美著名“中国通”解读",
+          "url": "https://news.ifeng.com/c/8uzN3iPy76f",
           "source": "凤凰网",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时29分"
+          "appearance_count": 2,
+          "time_info": "[18时06分 ~ 18时07分]"
         },
         {
-          "title": "伊朗总统：最高领袖决策过程遭人利用",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%EF%BC%9A%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%86%B3%E7%AD%96%E8%BF%87%E7%A8%8B%E9%81%AD%E4%BA%BA%E5%88%A9%E7%94%A8",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时29分"
-        },
-        {
-          "title": "伊朗总统称没有力量能让伊朗屈服",
-          "url": "https://wallstreetcn.com/livenews/3145983",
+          "title": "特朗普（谈AI）：它可能比石油还要重要。 谁赢了AI，谁就赢得一切。就这么重要。",
+          "url": "https://wallstreetcn.com/livenews/3146612",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时29分"
+          "time_info": "18时07分"
         },
         {
-          "title": "伊朗总统称与最高领袖联络非常困难",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E7%A7%B0%E4%B8%8E%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E8%81%94%E7%BB%9C%E9%9D%9E%E5%B8%B8%E5%9B%B0%E9%9A%BE%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-07）",
+          "url": "https://flash.jin10.com/detail/20260807175816427800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
+        },
+        {
+          "title": "特朗普（被问及加息时）：在投票之前，加息并非完全由沃什决定。 我认为他很棒，我不会批评他。",
+          "url": "https://wallstreetcn.com/livenews/3146606",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
+        },
+        {
+          "title": "特朗普：数据中心可能会比石油更重要",
+          "url": "https://flash.jin10.com/detail/20260807175232367800",
+          "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时29分"
+          "time_info": "18时07分"
+        },
+        {
+          "title": "特朗普民调承压，内外交困陷入“流沙困境”",
+          "url": "https://flash.jin10.com/detail/20260807174925300800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
+        },
+        {
+          "title": "特朗普下令调查美军弹药库存信息泄露",
+          "url": "https://wallstreetcn.com/livenews/3146595",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 6,
+      "match_count": 5,
       "titles": [
         {
-          "title": "如何看待 DeepSeek 8 月 6 日公告称即将大幅度涨价？",
-          "url": "https://www.zhihu.com/question/2068628771687625392",
-          "source": "知乎",
+          "title": "宇树科技IPO定价150.8元，DeepSeek、腾讯等获战略配售",
+          "url": "https://wallstreetcn.com/articles/3778857",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时29分"
+          "appearance_count": 2,
+          "time_info": "[18时06分 ~ 18时07分]"
         },
         {
-          "title": "DeepSeek预告将大幅涨价 V4正式版发布进入倒计时",
-          "url": "https://www.cls.cn/detail/2447135",
-          "source": "财联社热门",
+          "title": "如何看待梁文锋旗下幻方量化多只产品收益转负，单月跌幅超 20%？",
+          "url": "https://www.zhihu.com/question/2068637080209421054",
+          "source": "知乎",
           "ranks": [
-            2
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时29分"
+          "appearance_count": 2,
+          "time_info": "[18时06分 ~ 18时07分]"
+        },
+        {
+          "title": "DeepSeek涨价，国产大模型\"免费午餐\"到头了！",
+          "url": "https://wallstreetcn.com/articles/3778849",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时06分 ~ 18时07分]"
+        },
+        {
+          "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
+          "url": "https://www.zhihu.com/question/2069015264461579129",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时06分 ~ 18时07分]"
         },
         {
           "title": "DeepSeek拟上调API服务价格",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
           "source": "贴吧",
           "ranks": [
-            7
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时29分"
-        },
-        {
-          "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33728016",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时29分"
-        },
-        {
-          "title": "DeepSeek拟上调API服务定价",
-          "url": "https://www.douyin.com/hot/2599312",
-          "source": "抖音",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时29分"
-        },
-        {
-          "title": "DeepSeek拟调高API价格",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%8B%9F%E8%B0%83%E9%AB%98API%E4%BB%B7%E6%A0%BC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "一图看懂 | 金价刚突破4300美元关口，黄金股早已悄悄涨了30%",
-          "url": "https://www.cls.cn/detail/2447296",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时29分"
+          "appearance_count": 2,
+          "time_info": "[18时06分 ~ 18时07分]"
         }
       ]
     },
     {
       "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
+          "url": "https://wallstreetcn.com/articles/3778821",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时06分 ~ 18时07分]"
+        },
+        {
+          "title": "美股光模块黑马计划大幅扩产 全力押注800G、1.6T产品",
+          "url": "https://www.cls.cn/detail/2448354",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时06分 ~ 18时07分]"
+        },
+        {
+          "title": "美股光通信股AAOI盘前涨超15%，公司管理层在业绩电话会上释放积极信号，表示AI基础设施需求强劲，客户需求较其当前供应能力高出约20%至40%。",
+          "url": "https://wallstreetcn.com/livenews/3146603",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
       "match_count": 1,
       "titles": [
         {
-          "title": "AppLovin美股盘前跌超16%，公司二季度营收不及预期。",
-          "url": "https://wallstreetcn.com/livenews/3145991",
-          "source": "华尔街见闻-快讯",
+          "title": "以情报高官疑因伊朗行动失败被解职",
+          "url": "https://news.ifeng.com/c/8vOg4e2X7cf",
+          "source": "凤凰网",
           "ranks": [
-            12
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时29分"
+          "appearance_count": 2,
+          "time_info": "[18时06分 ~ 18时07分]"
         }
       ]
     }
